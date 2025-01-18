@@ -5,6 +5,18 @@ using namespace std;
 #define phi_const               acos(-1)
 #define infy_const              1e18+1
 
+// template<typename E, typename W> struct edge {
+//     E v;
+//     W w;
+//     edge(E _v): E(_v), w(0) {}
+//     edge(E _v, W _w): v(_v), w(_w) {}
+// };
+
+// typedef edge<int,int>                       eii;
+// typedef edge<int,long long>                 eil;
+// typedef edge<pair<int,int>, int>            epi;
+// typedef edge<pair<int,int>, long long>      epl;
+
 // 0-index
 vector<int> dist_from_root(vector<vector<int>> &tree, int r = 0) {
     int n = tree.size();
@@ -84,4 +96,27 @@ vector<vector<int>> bfs_tree(vector<vector<int>> &graph, int r = 0) {
     vector<vector<int>> tree(n);
     // TODO
     return tree;
+}
+
+// try to find topo sort. if does not exit, it will return partial topo sort
+// 0-index
+vector<int> topo_sort(vector<vector<int>> &g) {
+    int n = g.size();
+    vector<int> d(n);
+    for(int i = 0; i < n; i++) {
+        for(auto &j: g[i]) d[j]++;
+    }
+    queue<int> q;
+    for(int i = 0; i < n; i++) if(!d[i]) q.push(i);
+    vector<int> ts;
+    while(!q.empty()) {
+        auto u = q.front();
+        q.pop();
+        ts.push_back(u);
+        for(auto &v: g[u]) {
+            d[v]--;
+            if(d[v] == 0) q.push(v);
+        }
+    }
+    return ts;
 }

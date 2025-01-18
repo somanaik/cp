@@ -94,15 +94,51 @@ int seed = chrono::steady_clock::now().time_since_epoch().count();
 mt19937 rng_int(seed);
 mt19937_64 rng_ll(seed);
 
-void solve() {
+vector<int> topo_sort(vector<vector<int>> &g) {
+    int n = g.size();
+    vector<int> d(n);
+    for(int i = 0; i < n; i++) {
+        for(auto &j: g[i]) d[j]++;
+    }
+    queue<int> q;
+    for(int i = 0; i < n; i++) if(!d[i]) q.push(i);
+    vector<int> ts;
+    while(!q.empty()) {
+        auto u = q.front();
+        q.pop();
+        ts.push_back(u);
+        for(auto &v: g[u]) {
+            d[v]--;
+            if(d[v] == 0) q.push(v);
+        }
+    }
+    return ts;
+};
 
+void solve() {
+    int n;
+    input(n);
+    vstr s(n);
+    input(s);
+
+    vvint g(n);
+    for(int i = 0; i < n; i++) {
+        for(int j = i + 1; j < n; j++) {
+            if(i == j) continue;
+            if(s[i][j] == '0') g[j].push_back(i);
+            else g[i].push_back(j);
+        }
+    }
+    vint to = topo_sort(g);
+    for(auto &x : to) x++;
+    output(to);
 }
 
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 
     int tc = 1;
-    // input(tc);
+    input(tc);
     for(int c = 1; c <= tc; c++) {
         // cout << "Case #"<<c<<": ";
         solve();
