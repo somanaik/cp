@@ -95,121 +95,14 @@ mt19937 rng_int(seed);
 mt19937_64 rng_ll(seed);
 
 void solve() {
-    int n;
-    string s;
-    input(n, s);
-    vvint pos(26);
-    for(int i = 0; i < n; i++) {
-        pos[s[i] - 'a'].push_back(i);
-    }
 
-    int o = -1;
-    vint present;
-    for(int i = 0; i < 26; i++) {
-        int k = sz(pos[i]);
-        if(k) present.push_back(i);
-        if(k&1) {
-            if(o != -1) {
-                output(0);
-                return;
-            }
-            o = i;
-        }
-    }
-
-    int k = sz(present);
-    if(k == 1) {
-        output(-1);
-        return;
-    }
-
-    // all freq even
-    string res = "";
-    if(o == -1) {
-        auto rec = [&](int l) {
-            int a = -1;
-            for(int i = 0; i < k; i++) {
-                if(pos[i].empty() || pos[i].back() < l) continue;
-                a = i;
-                break;
-            }
-            assert(a != -1);
-            while(!pos[a].empty() && s.back() == 'a' + a) s.pop_back(), pos[a].pop_back();
-            if(pos[a].empty()) {
-                int b = -1;
-                for(int i = a + 1; i < k; i++) {
-                    if(pos[i].empty() || pos[i].back() < l) continue;
-                    b = i;
-                    break;
-                }
-                assert(b != -1);
-                res += 'a' + b;
-                res += 'a' + a;
-            } else {
-                
-            }
-        };
-        rec(0);
-    } else {
-        assert(false);
-        int a = present[0], b = -1, c = -1;
-        if(a == o) {
-            if(sz(pos[a]) == 1) {
-                int mx = 0;
-                c = -1;
-                for(int i = 1; i < k; i++) {
-                    b = present[i];
-                    mx = 0, c = -1;
-                    for(int j = i + 1; j < k; j++) {
-                        int p = present[j], cnt = 0;
-                        for(auto &y : pos[b]) {
-                            if(y > pos[a].front() && y < pos[p].back()) cnt++;
-                        }
-                        cnt -= (cnt&1)^1;
-                        if(cnt > mx) mx = cnt, c = p;
-                    }
-                    if(c != -1) break;
-                }
-                if(c != -1) res += 'a' + a, res += string(mx, 'a'+b), res += 'a'+c;
-                else {
-                    b = -1;
-                    for(int i = 2; i < k; i++) {
-                        c = present[i], b = -1;
-                        for(int j = 1; j < i; j++) {
-                            if(pos[a].front() > pos[present[j]].back()) continue;
-                            if(pos[c].back() < pos[a].front() || pos[c].front() > pos[present[j]].back()) continue;
-                            b = present[j];
-                            break;
-                        }
-                        if(b != -1) break;
-                    }
-                    if(b == -1) res += 'a' + present[1];
-                    else res += 'a' + a, res += 'a' + c, res += 'a' + b;
-                }
-            } else {
-                int mx = 0;
-                for(int i = 1; i < k; i++) {
-                    int p = present[i], cnt = 0;
-                    for(auto &y: pos[a]) {
-                        if(y < pos[p].back()) cnt++;
-                    }
-                    cnt -= (cnt&1);
-                    if(cnt > mx) mx = cnt, b = p;
-                }
-                if(b == -1) res += 'a' + present[1];
-                else res = string(mx, 'a'+a), res += 'a' + b;
-            }
-        } else res += 'a' + a;
-    }
-    output(sz(res));
-    output(res);
 }
 
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 
     int tc = 1;
-    input(tc);
+    // input(tc);
     for(int c = 1; c <= tc; c++) {
         // cout << "Case #"<<c<<": ";
         solve();

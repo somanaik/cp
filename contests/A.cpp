@@ -95,25 +95,29 @@ mt19937 rng_int(seed);
 mt19937_64 rng_ll(seed);
 
 void solve() {
-    int n, m;
-    input(n, m);
-    int x1 = 0, y1 = 0, x2 = m, y2 = m;
-    int res = 0;
+    int n;
+    input(n);
+    vint nums(n);
+    input(nums);
+    multiset<int> remove;
+
+    ll ksum = 0, tsum = 0, res = -infy_ll;
     for(int i = 0; i < n; i++) {
-        int x, y;
-        input(x, y);
-        int tx1 = x1 + x, ty1 = y1 + y;
-        int tx2 = x2 + x, ty2 = y2 + y;
-
-        res += 2*(tx2 - tx1 + ty2 - ty1);
-        if(x1) {
-            res -= 2*(x2 - tx1 + y2 - ty1);
+        int j = n - (i + 1);
+        tsum += nums[i];
+        ksum += nums[i];
+        remove.insert(-nums[i]);
+        while(sz(remove) > j) {
+            auto itr = remove.begin();
+            ksum += *itr;
+            remove.erase(itr);
         }
-
-        x1 = tx1, x2 = tx2;
-        y1 = ty1, y2 = ty2;
+        if(sz(remove) == j) {
+            res = max(res, tsum - ksum);
+        }
+        debug(i+1, j, remove);
+        debug(res, tsum, ksum, tsum - ksum);
     }
-
     output(res);
 }
 
@@ -121,7 +125,7 @@ int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 
     int tc = 1;
-    input(tc);
+    // input(tc);
     for(int c = 1; c <= tc; c++) {
         // cout << "Case #"<<c<<": ";
         solve();

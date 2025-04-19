@@ -1,0 +1,1284 @@
+a a Yes
+aaaaaaaed aaaaaaaed Yes
+.............
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+ace ace Yes
+bce bce Yes
+a a Yes
+a a Yes
+a a Yes
+-1
+.............
+ccd ccd Yes
+a a Yes
+bbe bbe Yes
+a a Yes
+a a Yes
+abe abe Yes
+.............
+aab aab Yes
+.............
+a a Yes
+a a Yes
+aaaac aaaac Yes
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+c c Yes
+aca aca Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+e e Yes
+.............
+a a Yes
+-1
+.............
+a a Yes
+b b Yes
+bdc bdc Yes
+b b Yes
+b b Yes
+.............
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+cccec cccec Yes
+a a Yes
+aaaeb aaaeb Yes
+d d Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+abbde abbde Yes
+-1
+.............
+b b Yes
+b b Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+abc abc Yes
+b b Yes
+.............
+aac aac Yes
+aaaba aaaba Yes
+b b Yes
+bbc bbc Yes
+a a Yes
+a a Yes
+.............
+b b Yes
+c c Yes
+b b Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+aaabe aaabe Yes
+a a Yes
+aaaaaca aaaaaca Yes
+b b Yes
+.............
+ace ace Yes
+aab aab Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+.............
+c c Yes
+c c Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+aaaad aaaad Yes
+.............
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+aaada aaada Yes
+bde bde Yes
+b b Yes
+d d Yes
+-1
+.............
+a a Yes
+bbd bbd Yes
+c c Yes
+b b Yes
+b b Yes
+aaaae aaaae Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+b b Yes
+a a Yes
+-1
+.............
+cde cde Yes
+a a Yes
+d d Yes
+aaaaaaacd aaaaaaacd Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+b b Yes
+a a Yes
+d d Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+d d Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+.............
+abd abd Yes
+d d Yes
+.............
+a a Yes
+abe abe Yes
+aaaae aaaae Yes
+a a Yes
+a a Yes
+aaabbbe aaabbbe Yes
+aaaac aaaac Yes
+e e Yes
+bbbbbbd bbbbbbd Yes
+a a Yes
+.............
+aaadc aaadc Yes
+aaabd aaabd Yes
+.............
+aaaaaae aaaaaae Yes
+e e Yes
+abbde abbde Yes
+abd abd Yes
+a a Yes
+aaace aaace Yes
+a a Yes
+bbd bbd Yes
+.............
+a a Yes
+abc abc Yes
+a a Yes
+a a Yes
+aab aab Yes
+a a Yes
+c c Yes
+.............
+a a Yes
+aab aab Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+bbbbbbbec bbbbbbbec Yes
+.............
+aab aab Yes
+b b Yes
+a a Yes
+b b Yes
+cde cde Yes
+aaaac aaaac Yes
+a a Yes
+b b Yes
+aac aac Yes
+.............
+a a Yes
+e e Yes
+-1
+a a Yes
+.............
+aed aed Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+adc adc Yes
+.............
+b b Yes
+a a Yes
+.............
+bbbdb bbbdb Yes
+abbbbbbeb abbbbbbeb Yes
+.............
+b b Yes
+.............
+aaabc aaabc Yes
+a a Yes
+aaace aaace Yes
+b b Yes
+b b Yes
+aaaaaaaaabe aaaaaaaaabe Yes
+a a Yes
+aac aac Yes
+a a Yes
+.............
+a a Yes
+abc abc Yes
+-1
+a a Yes
+aba aba Yes
+a a Yes
+d d Yes
+a a Yes
+c c Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+a a Yes
+.............
+acb acb Yes
+aaabbcb aaabbcb Yes
+.............
+b b Yes
+a a Yes
+d d Yes
+b b Yes
+a a Yes
+bdb bdb Yes
+c c Yes
+.............
+a a Yes
+a a Yes
+bbe bbe Yes
+.............
+a a Yes
+-1
+a a Yes
+.............
+a a Yes
+b b Yes
+ccccd ccccd Yes
+.............
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+b b Yes
+bbbbbbc bbbbbbc Yes
+a a Yes
+a a Yes
+a a Yes
+d d Yes
+.............
+a a Yes
+b b Yes
+.............
+aaabc aaabc Yes
+-1
+a a Yes
+a a Yes
+bbbbbbc bbbbbbc Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+aab aab Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+aad aad Yes
+bbbbbbe bbbbbbe Yes
+cec cec Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+b b Yes
+bbbbbde bbbbbde Yes
+.............
+-1
+.............
+b b Yes
+-1
+b b Yes
+.............
+bbbce bbbce Yes
+a a Yes
+b b Yes
+e e Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+bbd bbd Yes
+a a Yes
+d d Yes
+-1
+cec cec Yes
+a a Yes
+.............
+abbbbbbcd abbbbbbcd Yes
+a a Yes
+b b Yes
+c c Yes
+a a Yes
+a a Yes
+b b Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+e e Yes
+ccd ccd Yes
+a a Yes
+d d Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+aaadc aaadc Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+aca aca Yes
+.............
+aaaed aaaed Yes
+c c Yes
+-1
+c c Yes
+ccced ccced Yes
+a a Yes
+e e Yes
+bbe bbe Yes
+.............
+a a Yes
+a a Yes
+.............
+a a Yes
+aaaaabbed aaaaabbed Yes
+c c Yes
+.............
+a a Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+aab aab Yes
+a a Yes
+a a Yes
+-1
+abbde abbde Yes
+b b Yes
+aaaed aaaed Yes
+.............
+e e Yes
+a a Yes
+aaaaaad aaaaaad Yes
+.............
+a a Yes
+bbbde bbbde Yes
+b b Yes
+a a Yes
+d d Yes
+aaabe aaabe Yes
+e e Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+b b Yes
+e e Yes
+bbbbbce bbbbbce Yes
+aaadb aaadb Yes
+b b Yes
+aaaac aaaac Yes
+a a Yes
+a a Yes
+d d Yes
+a a Yes
+a a Yes
+c c Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+d d Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+bec bec Yes
+a a Yes
+c c Yes
+a a Yes
+c c Yes
+aaaab aaaab Yes
+.............
+b b Yes
+aaaaabe aaaaabe Yes
+a a Yes
+d d Yes
+c c Yes
+aeb aeb Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+bce bce Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+bbbbc bbbbc Yes
+-1
+-1
+a a Yes
+aaadb aaadb Yes
+a a Yes
+.............
+aaaec aaaec Yes
+aaaaaaaaaab aaaaaaaaaab Yes
+b b Yes
+abbcd abbcd Yes
+aaaaaca aaaaaca Yes
+bbd bbd Yes
+d d Yes
+bbc bbc Yes
+.............
+acb acb Yes
+-1
+a a Yes
+aaacb aaacb Yes
+a a Yes
+accde accde Yes
+aea aea Yes
+a a Yes
+a a Yes
+e e Yes
+aaaaabe aaaaabe Yes
+b b Yes
+.............
+aaace aaace Yes
+a a Yes
+a a Yes
+bbbbd bbbbd Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+aaacd aaacd Yes
+-1
+a a Yes
+a a Yes
+aaade aaade Yes
+b b Yes
+a a Yes
+.............
+b b Yes
+aaaeb aaaeb Yes
+b b Yes
+c c Yes
+b b Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+a a Yes
+-1
+a a Yes
+-1
+d d Yes
+a a Yes
+b b Yes
+ade ade Yes
+a a Yes
+.............
+e e Yes
+-1
+aab aab Yes
+c c Yes
+a a Yes
+aaaae aaaae Yes
+b b Yes
+a a Yes
+b b Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+.............
+a a Yes
+c c Yes
+aaaac aaaac Yes
+-1
+b b Yes
+a a Yes
+a a Yes
+e e Yes
+bbbbc bbbbc Yes
+a a Yes
+a a Yes
+aaaaace aaaaace Yes
+abbde abbde Yes
+.............
+a a Yes
+c c Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+bbc bbc Yes
+aaaba aaaba Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+aaaaabd aaaaabd Yes
+a a Yes
+a a Yes
+bccde bccde Yes
+ade ade Yes
+bbe bbe Yes
+a a Yes
+bbc bbc Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+bbbbd bbbbd Yes
+b b Yes
+a a Yes
+b b Yes
+abbcd abbcd Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+b b Yes
+a a Yes
+bbbbd bbbbd Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+e e Yes
+a a Yes
+b b Yes
+b b Yes
+abbbe abbbe Yes
+b b Yes
+.............
+e e Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+b b Yes
+a a Yes
+bbc bbc Yes
+aab aab Yes
+a a Yes
+c c Yes
+e e Yes
+a a Yes
+aaaeb aaaeb Yes
+.............
+b b Yes
+a a Yes
+aaada aaada Yes
+a a Yes
+bbbbe bbbbe Yes
+b b Yes
+.............
+a a Yes
+beb beb Yes
+a a Yes
+b b Yes
+aba aba Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+e e Yes
+-1
+b b Yes
+b b Yes
+a a Yes
+e e Yes
+-1
+.............
+b b Yes
+-1
+a a Yes
+a a Yes
+a a Yes
+abc abc Yes
+aaabc aaabc Yes
+bbbde bbbde Yes
+bbbbbbbbbbbbc bbbbbbbbbbbbc Yes
+e e Yes
+e e Yes
+b b Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+c c Yes
+bbbbbbc bbbbbbc Yes
+b b Yes
+aac aac Yes
+a a Yes
+b b Yes
+b b Yes
+a a Yes
+a a Yes
+aaaaaab aaaaaab Yes
+b b Yes
+.............
+b b Yes
+aaabe aaabe Yes
+a a Yes
+b b Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+aed aed Yes
+a a Yes
+aab aab Yes
+a a Yes
+bbd bbd Yes
+.............
+b b Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+-1
+a a Yes
+b b Yes
+.............
+a a Yes
+.............
+a a Yes
+bbbddde bbbddde Yes
+a a Yes
+a a Yes
+aac aac Yes
+a a Yes
+b b Yes
+aaaad aaaad Yes
+b b Yes
+a a Yes
+b b Yes
+bbc bbc Yes
+d d Yes
+bdc bdc Yes
+a a Yes
+.............
+aaabc aaabc Yes
+c c Yes
+aaaaaaaec aaaaaaaec Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+b b Yes
+a a Yes
+-1
+a a Yes
+c c Yes
+aaaad aaaad Yes
+c c Yes
+aab aab Yes
+a a Yes
+e e Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+b b Yes
+b b Yes
+.............
+b b Yes
+a a Yes
+a a Yes
+aaaaacb aaaaacb Yes
+a a Yes
+aaaaaec aaaaaec Yes
+b b Yes
+abc abc Yes
+b b Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+b b Yes
+a a Yes
+bbbec bbbec Yes
+a a Yes
+.............
+a a Yes
+b b Yes
+a a Yes
+aaaad aaaad Yes
+a a Yes
+ada ada Yes
+ccd ccd Yes
+ade ade Yes
+c c Yes
+.............
+aaabbccdc aaabbccdc Yes
+-1
+bbbbc bbbbc Yes
+a a Yes
+e e Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+d d Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+ded ded Yes
+a a Yes
+a a Yes
+aaaaabe aaaaabe Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+abd abd Yes
+a a Yes
+a a Yes
+bbbbbed bbbbbed Yes
+aca aca Yes
+a a Yes
+e e Yes
+aaaaaaaca aaaaaaaca Yes
+c c Yes
+aab aab Yes
+a a Yes
+aaabbbc aaabbbc Yes
+.............
+aea aea Yes
+aaade aaade Yes
+a a Yes
+cccde cccde Yes
+b b Yes
+b b Yes
+bbbbc bbbbc Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+e e Yes
+.............
+a a Yes
+c c Yes
+a a Yes
+c c Yes
+a a Yes
+adb adb Yes
+a a Yes
+a a Yes
+aaaaacd aaaaacd Yes
+a a Yes
+e e Yes
+.............
+bbbbd bbbbd Yes
+ace ace Yes
+a a Yes
+aaabbde aaabbde Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+b b Yes
+a a Yes
+aaacd aaacd Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+e e Yes
+aaaae aaaae Yes
+a a Yes
+c c Yes
+a a Yes
+bce bce Yes
+aaaba aaaba Yes
+.............
+a a Yes
+.............
+abbbd abbbd Yes
+a a Yes
+a a Yes
+-1
+bbbbbbd bbbbbbd Yes
+b b Yes
+a a Yes
+aab aab Yes
+e e Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+aaabc aaabc Yes
+a a Yes
+aaaac aaaac Yes
+a a Yes
+d d Yes
+aad aad Yes
+b b Yes
+b b Yes
+ade ade Yes
+.............
+b b Yes
+aaaccde aaaccde Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+aab aab Yes
+b b Yes
+b b Yes
+b b Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+d d Yes
+a a Yes
+c c Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+a a Yes
+-1
+aad aad Yes
+abbdc abbdc Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+aaacccccd aaacccccd Yes
+a a Yes
+b b Yes
+c c Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+-1
+b b Yes
+aae aae Yes
+a a Yes
+a a Yes
+c c Yes
+bbbbe bbbbe Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+a a Yes
+a a Yes
+d d Yes
+b b Yes
+bbd bbd Yes
+a a Yes
+cccccec cccccec Yes
+a a Yes
+.............
+b b Yes
+a a Yes
+-1
+a a Yes
+-1
+c c Yes
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+aaaae aaaae Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+aaabd aaabd Yes
+e e Yes
+a a Yes
+b b Yes
+a a Yes
+.............
+a a Yes
+b b Yes
+e e Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+aaaac aaaac Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+aae aae Yes
+aad aad Yes
+a a Yes
+d d Yes
+d d Yes
+bbbbc bbbbc Yes
+aac aac Yes
+a a Yes
+.............
+a a Yes
+-1
+a a Yes
+b b Yes
+a a Yes
+.............
+a a Yes
+abbdded abbdded Yes
+bbbde bbbde Yes
+-1
+aaaad aaaad Yes
+a a Yes
+a a Yes
+d d Yes
+acd acd Yes
+aaaaaba aaaaaba Yes
+b b Yes
+a a Yes
+a a Yes
+b b Yes
+.............
+a a Yes
+cec cec Yes
+.............
+a a Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+d d Yes
+b b Yes
+b b Yes
+-1
+a a Yes
+.............
+aaaaaac aaaaaac Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+c c Yes
+b b Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+bbbbbbbcd bbbbbbbcd Yes
+aaaaaaabd aaaaaaabd Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+d d Yes
+adb adb Yes
+a a Yes
+a a Yes
+aaaccce aaaccce Yes
+.............
+b b Yes
+a a Yes
+b b Yes
+b b Yes
+a a Yes
+b b Yes
+b b Yes
+c c Yes
+c c Yes
+dddde dddde Yes
+a a Yes
+a a Yes
+cccce cccce Yes
+a a Yes
+.............
+aaaab aaaab Yes
+bbbcd bbbcd Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+-1
+aab aab Yes
+a a Yes
+a a Yes
+b b Yes
+.............
+cccde cccde Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+aaaab aaaab Yes
+a a Yes
+.............
+a a Yes
+e e Yes
+abbcb abbcb Yes
+a a Yes
+a a Yes
+adc adc Yes
+a a Yes
+.............
+b b Yes
+a a Yes
+cec cec Yes
+a a Yes
+ace ace Yes
+c c Yes
+aad aad Yes
+aad aad Yes
+a a Yes
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+.............
+aac aac Yes
+-1
+abbeb abbeb Yes
+.............
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+a a Yes
+a a Yes
+bbc bbc Yes
+a a Yes
+b b Yes
+.............
+-1
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+a a Yes
+a a Yes
+b b Yes
+a a Yes
+bbc bbc Yes
+b b Yes
+aba aba Yes
+a a Yes
+aaace aaace Yes
+ace ace Yes
+a a Yes
+a a Yes
+.............
+aaaaade aaaaade Yes
+e e Yes
+d d Yes
+aaaaaac aaaaaac Yes
+b b Yes
+a a Yes
+a a Yes
+.............
+c c Yes
+bbc bbc Yes
+c c Yes
+bbbbbbc bbbbbbc Yes
+-1
+b b Yes
+.............
+aab aab Yes
+.............
+b b Yes
+.............
+a a Yes
+a a Yes
+a a Yes
+.............
+a a Yes
+a a Yes
+abc abc Yes
+aaaac aaaac Yes
+a a Yes
+.............
+e e Yes
+.............
+aaaaaaaed aaaaaaaed Yes
+a a Yes
+c c Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+-1
+a a Yes
+aab aab Yes
+a a Yes
+a a Yes
+a a Yes
+.............
+b b Yes
+c c Yes
+a a Yes
+.............
+d d Yes
+aaaad aaaad Yes
+a a Yes
+a a Yes
+` e No
+a a Yes
+aaabc aaabc Yes
+a a Yes
+a a Yes
+a a Yes
+a a Yes
+.............

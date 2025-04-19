@@ -43,14 +43,10 @@ def lcm_of_cons():
 
 primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41]
 
-t = randint(1, 10)
+t = randint(1, 15)
 print(t)
 for i in range(t):
-    n = randint(1, 6)
-    s = ""
-    for j in range(n):
-        s = s + chr(randint(0, 4)+ord('a'))
-    s = s + s
-    s = ''.join(shuffle(s))
-    print(len(s))
-    print(s)
+    n, m = randint(1,10), randint(1,20)
+    s = [ "A" if randint(0,1) == 1 else "B" for _ in range(n)]
+    print(n,m)
+    print(''.join(s))

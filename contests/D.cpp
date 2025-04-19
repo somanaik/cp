@@ -95,14 +95,14 @@ mt19937 rng_int(seed);
 mt19937_64 rng_ll(seed);
 
 void solve() {
-    
+
 }
 
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 
     int tc = 1;
-    input(tc);
+    // input(tc);
     for(int c = 1; c <= tc; c++) {
         // cout << "Case #"<<c<<": ";
         solve();

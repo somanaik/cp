@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 cp source.cpp A.cpp
 cp source.cpp B.cpp
 cp source.cpp C.cpp

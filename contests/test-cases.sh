@@ -1,4 +1,3 @@
-#!/bin/bash
-# python3 gen-tests.py > input.txt
+#!/bin/sh
 python3 gen-tests.py > input.txt
 ./run.sh

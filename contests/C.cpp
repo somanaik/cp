@@ -94,135 +94,15 @@ int seed = chrono::steady_clock::now().time_since_epoch().count();
 mt19937 rng_int(seed);
 mt19937_64 rng_ll(seed);
 
-bool is_palindrome(string &s) {
-    vint freq(26);
-    for(auto  &x : s) freq[x-'a']++;
-    int c = 0;
-    for(auto &x : freq) c += x&1;
-    return c <= 1;
-}
-
 void solve() {
-    int n;
-    string s;
-    input(n, s);
-    vvint pos(26);
-    for(int i = 0; i < n; i++) {
-        pos[s[i] - 'a'].push_back(i);
-    }
 
-    int o = -1;
-    vint present;
-    for(int i = 0; i < 26; i++) {
-        int k = sz(pos[i]);
-        if(k) present.push_back(i);
-        if(k&1) {
-            if(o != -1) {
-                output(0);
-                return;
-            }
-            o = i;
-        }
-    }
-
-    int k = sz(present);
-    if(k == 1) {
-        output(-1);
-        return;
-    }
-
-    auto calc_min = [&](int l, int c) {
-        for(int i = c; i < 26; i++) {
-            if(pos[i].empty() || pos[i].back() < l) continue;
-            return i;
-        }
-        return -1;
-    };
-
-
-    string bres = string(n, 'z');
-    auto brute = [&]() {
-        for(int mask = 0; mask < (1<<n); mask++) {
-            string t1 = "", t2 = "";
-            for(int j = 0; j < n; j++) {
-                if(get_bit(mask, j)) t1 += s[j];
-                else t2 += s[j];
-            }
-
-            if(!is_palindrome(t2)) {
-                if(t1.empty()) debug(mask);
-                bres = min(bres, t1);
-            }
-        }
-    };
-
-    // all freq even
-    string res = "";
-
-    // brute();
-
-    if(o == -1) {
-        function<void(int)> rec = [&](int l) {
-            int a = calc_min(l, 0);
-            bool last = s.back() == 'a' + a;
-            while(!pos[a].empty() && s.back() == 'a' + a) s.pop_back(), pos[a].pop_back();
-
-            int m = 0;
-            for(auto &y: pos[a]) m += y >= l;
-
-            if(!m) {
-                int b = calc_min(l, a + 1);
-                res += 'a' + b;
-                res += 'a' + a;
-                return;
-            }
-            
-            int b = calc_min(pos[a].back()+1, a + 1);
-            if(m&1) {
-                res += string(m, 'a' + a);
-                res += 'a' + b;
-                return;
-            }
-            if(last) {
-                res += string(m, 'a' + a);
-                res += 'a' + b;
-                res += 'a' + a;
-                return;
-            }
-            int c = calc_min(pos[a].back()+1, b + 1);
-            if(c == -1) {
-                pos[a].pop_back();
-                b = calc_min(pos[a].back()+1, a + 1);
-                res += string(m-1, 'a'+a);
-                res += 'a'+b;
-                return;
-            }
-            res += string(m, 'a' + a);
-            rec(pos[a].back() + 1);
-        };
-        rec(0);
-    } else {
-        int a = present[0], b = -1, c = -1;
-        if(a == o) {
-            if(sz(pos[a]) == 1) {
-                
-            } else {
-                
-            }
-        } else res += 'a' + a;
-    }
-    output(sz(res));
-    // output(res, bres, yes_no[bres == res]);
-    output(res);
-    // cout << endl;
-    // assert(bres == res);
 }
 
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 
     int tc = 1;
-    input(tc);
+    // input(tc);
     for(int c = 1; c <= tc; c++) {
         // cout << "Case #"<<c<<": ";
         solve();
